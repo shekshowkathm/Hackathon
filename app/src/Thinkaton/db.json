@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "town":"ukt",
+        "taluk":"trichy",
+        "district":"trichy",
+        "state":"tamilnadu"
+
+    },
+    {
+        "id":2,
+        "town":"sirumalai",
+        "taluk":"dindigul",
+        "district":"dindigul",
+        "state":"tamilnadu"
+
+    },
+    {
+        "id":3,
+        "town":"fff",
+        "taluk":"chennai",
+        "district":"chennai",
+        "state":"tamilnadu"
+
+    }
+]

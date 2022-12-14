@@ -1,0 +1,24 @@
+.postalform{
+  height: 100px;
+  width: 100%;
+  background-color: #F08080;
+  overflow: hidden;
+}
+.postalform h1{
+  color: black;
+  margin-top: 30px;
+}
+ table{
+  margin-top: 200px;
+
+
+}
+
+td{
+  padding: 10px;
+}
+button{
+  border-style: none;
+  padding: 10px 10px 10px 10px;
+  
+}
